@@ -1,0 +1,29 @@
+#em-text:hover {
+    background-color: blue;
+  }
+
+strong {
+    font-family: cursive;
+  }
+
+strong.class1 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+ul {
+    background-color: #ffcc99;
+}
+
+div {
+    border: thin solid black;
+  }
+
+p {
+    width: 200px;
+    height: 100px;
+    background-color: lightblue;
+  }
+
+div > ul > li {
+    background-color: yellow;
+}
